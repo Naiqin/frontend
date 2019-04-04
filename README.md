@@ -12,3 +12,4 @@
 - [underscore源码必看](https://github.com/jashkenas/underscore/blob/master/underscore.js)
 - [防抖](https://github.com/Naiqin/frontend/issues/1)
 - [截流](https://github.com/Naiqin/frontend/issues/2)
+- [浅拷贝&深拷贝](https://github.com/Naiqin/frontend/issues/4)

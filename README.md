@@ -18,6 +18,6 @@
 [官网](https://reactjs.org/docs/getting-started.html)
 
 ## 学习资料
-[MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)
-[ES6](https://github.com/ruanyf/es6tutorial/tree/gh-pages/docs)
-[mqyqingfeng](https://github.com/mqyqingfeng/Blog)
+* [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)
+* [ES6](https://github.com/ruanyf/es6tutorial/tree/gh-pages/docs)
+* [mqyqingfeng](https://github.com/mqyqingfeng/Blog)

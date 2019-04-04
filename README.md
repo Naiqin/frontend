@@ -13,3 +13,11 @@
 - [防抖](https://github.com/Naiqin/frontend/issues/1)
 - [截流](https://github.com/Naiqin/frontend/issues/2)
 - [浅拷贝&深拷贝](https://github.com/Naiqin/frontend/issues/4)
+
+## Reactjs 技术栈
+[官网](https://reactjs.org/docs/getting-started.html)
+
+## 学习资料
+[MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)
+[ES6](https://github.com/ruanyf/es6tutorial/tree/gh-pages/docs)
+[mqyqingfeng](https://github.com/mqyqingfeng/Blog)

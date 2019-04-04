@@ -13,6 +13,7 @@
 - [防抖](https://github.com/Naiqin/frontend/issues/1)
 - [截流](https://github.com/Naiqin/frontend/issues/2)
 - [浅拷贝&深拷贝](https://github.com/Naiqin/frontend/issues/4)
+- [嵌套数组扁平化](https://github.com/Naiqin/frontend/issues/5)
 
 ## Reactjs 技术栈
 [官网](https://reactjs.org/docs/getting-started.html)

@@ -7,7 +7,7 @@
 ## 前端javascript-基础篇：
  - [javascript 类型以及判断](https://github.com/Naiqin/frontend/issues/3)
  - [javascript 变量作用域](https://github.com/Naiqin/frontend/issues/6)
- - [javascript 数组常用的方法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array)
+ - [javascript 数组常用的方法](https://github.com/Naiqin/frontend/issues/7)
  - [TODO-浏览器常见的存储](https://github.com/Naiqin/frontend)
  - [TODO-git 常用命令](https://github.com/Naiqin/frontend)
 

@@ -6,7 +6,7 @@
 
 ## 前端javascript-基础篇：
  - [javascript 类型以及判断](https://github.com/Naiqin/frontend/issues/3)
- 
+ - [javascript 变量作用域](https://github.com/Naiqin/frontend/issues/6)
 
 ## 前端必须掌握篇
 - [underscore源码必看](https://github.com/jashkenas/underscore/blob/master/underscore.js)

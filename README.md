@@ -17,9 +17,12 @@
 - [截流](https://github.com/Naiqin/frontend/issues/2)
 - [浅拷贝&深拷贝](https://github.com/Naiqin/frontend/issues/4)
 - [嵌套数组扁平化](https://github.com/Naiqin/frontend/issues/5)
+- [TODO-前端缓存策略](https://github.com/Naiqin/frontend)
+- [JavaScript 正确理解**对象**](https://github.com/Naiqin/frontend/issues/9)
 
 ## 前端高级篇
-- [TODO-前端缓存策略](https://github.com/Naiqin/frontend)
+- [TODO-前端安全](https://github.com/Naiqin/frontend)
+- [javascript 函数闭包-bind-柯里化](https://github.com/Naiqin/frontend/issues/8)
 - [TODO-前端安全](https://github.com/Naiqin/frontend)
 
 ## Http 协议

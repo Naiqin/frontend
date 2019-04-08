@@ -9,7 +9,7 @@
  - [javascript 变量作用域](https://github.com/Naiqin/frontend/issues/6)
  - [javascript 数组常用的方法](https://github.com/Naiqin/frontend/issues/7)
  - [TODO-浏览器常见的存储](https://github.com/Naiqin/frontend)
- - [TODO-git 常用命令](https://github.com/Naiqin/frontend)
+ - [git 日常开发常用命令](https://github.com/Naiqin/frontend/issues/10)
 
 ## 前端必须掌握篇
 - [underscore源码必看](https://github.com/jashkenas/underscore/blob/master/underscore.js)

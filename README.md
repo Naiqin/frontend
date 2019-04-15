@@ -8,7 +8,7 @@
  - [javascript 类型以及判断](https://github.com/Naiqin/frontend/issues/3)
  - [javascript 变量作用域](https://github.com/Naiqin/frontend/issues/6)
  - [javascript 数组常用的方法](https://github.com/Naiqin/frontend/issues/7)
- - [TODO-浏览器常见的存储](https://github.com/Naiqin/frontend)
+ - [浏览器常见的存储](https://github.com/Naiqin/frontend/issues/11)
  - [git 日常开发常用命令](https://github.com/Naiqin/frontend/issues/10)
 
 ## 前端必须掌握篇
